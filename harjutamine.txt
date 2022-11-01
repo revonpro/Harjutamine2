@@ -1,3 +1,4 @@
 GitHub on Ameerika firma, mis pakub veebimajutusteenust tarkvaraarenduseks, kasutades Giti tarkvara.
 GitHubi kasutavad arendajad, programmeerimisõpetajad, üliõpilased ja ettevõtted kogu maailmas, et majutada miljoneid avatud lähtekoodiga projekte ja hõlbustada struktureeritud koostööd ühel platvormil.
 Mina saaksin GitHubi tulevikus kasutada kas kooltöid tehes, ise kodus nuputades või isegi tööjuures ülesandeid lahendades.
+GitHub Inc. asutati Chris Wanstrathi, P. J. Hyetti, Tom Preston-Werneri ja Scott Chaconi poolt San Franciscos aastal 2007. GitHubi teenus muutus kättesaadavaks 2008. aasta veebruaris.
