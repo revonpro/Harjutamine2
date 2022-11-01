@@ -1,0 +1,2 @@
+GitHub on Ameerika firma, mis pakub veebimajutusteenust tarkvaraarenduseks, kasutades Giti tarkvara.
+GitHubi kasutavad arendajad, programmeerimisõpetajad, üliõpilased ja ettevõtted kogu maailmas, et majutada miljoneid avatud lähtekoodiga projekte ja hõlbustada struktureeritud koostööd ühel platvormil.
